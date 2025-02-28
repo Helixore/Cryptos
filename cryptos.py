@@ -69,8 +69,4 @@ while True:
             
 
 #Token to rzecz, którą zamierzamy zaszyfrować
-#InvalidToken wypierdala jak token w jakiś sposób jest niepoprawny (niezamieniony na binarny, itd.)
-#Narazie działa to spoko
-#Tylko trzeba jeszcze popracować nad wykrywaniem czy istnieje już jakaś psswd.aab czy nie (w ładniejszy sposób)
-#i jakieś GUI w konsolce
-#ale to potem XD
+#InvalidToken wyrzuca jak token w jakiś sposób jest niepoprawny (niezamieniony na binarny, itd.)
